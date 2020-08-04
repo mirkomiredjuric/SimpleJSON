@@ -1,0 +1,34 @@
+{  "title": "Mire test",
+  "author": "Bane"
+};
+
+
+
+{
+"date": "2020-07-29",
+"name": "Ponedeljak"
+};
+
+
+
+
+
+
+
+
+
+{
+  "learner": "Mirko",
+  "courses": [
+    {
+      "title": "Spring Boot 2",
+      "learning": true,
+      "startDay": "2020-06-15"
+    },
+    {
+      "title": "AWS",
+      "learning": false,
+      "startDay": "2020-08-20"
+    }
+  ]
+}
